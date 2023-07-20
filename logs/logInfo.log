@@ -1,0 +1,284 @@
+[2023-07-20 11:35:24.698 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Starting TodoTestAppApplication using Java 17.0.6 with PID 4604 (D:\spring\todoTestApp\target\classes started by Administrator in D:\spring\todoTestApp)
+[2023-07-20 11:35:24.701 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] No active profile set, falling back to 1 default profile: "default"
+[2023-07-20 11:35:24.730 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-07-20 11:35:24.730 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-07-20 11:35:25.437 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8081 (http)
+[2023-07-20 11:35:25.442 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8081"]
+[2023-07-20 11:35:25.443 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-07-20 11:35:25.443 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.10]
+[2023-07-20 11:35:25.481 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-07-20 11:35:25.481 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 750 ms
+[2023-07-20 11:35:25.910 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-07-20 11:35:25.920 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8081"]
+[2023-07-20 11:35:25.933 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8081 (http) with context path ''
+[2023-07-20 11:35:25.940 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Started TodoTestAppApplication in 1.682 seconds (process running for 2.143)
+[2023-07-20 11:35:56.092 INFO  http-nio-8081-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-07-20 11:35:56.092 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[2023-07-20 11:35:56.093 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 0 ms
+[2023-07-20 11:36:16.104 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Starting TodoTestAppApplication using Java 17.0.6 with PID 13072 (D:\spring\todoTestApp\target\classes started by Administrator in D:\spring\todoTestApp)
+[2023-07-20 11:36:16.106 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] No active profile set, falling back to 1 default profile: "default"
+[2023-07-20 11:36:16.139 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-07-20 11:36:16.139 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-07-20 11:36:16.935 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8081 (http)
+[2023-07-20 11:36:16.941 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8081"]
+[2023-07-20 11:36:16.942 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-07-20 11:36:16.942 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.10]
+[2023-07-20 11:36:16.979 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-07-20 11:36:16.979 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 839 ms
+[2023-07-20 11:36:17.461 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-07-20 11:36:17.471 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8081"]
+[2023-07-20 11:36:17.483 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8081 (http) with context path ''
+[2023-07-20 11:36:17.490 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Started TodoTestAppApplication in 1.839 seconds (process running for 2.33)
+[2023-07-20 11:36:19.354 INFO  http-nio-8081-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-07-20 11:36:19.355 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[2023-07-20 11:36:19.355 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 0 ms
+[2023-07-20 11:36:19.798 INFO  http-nio-8081-exec-10] [org.springdoc.api.AbstractOpenApiResource] Init duration for springdoc-openapi is: 136 ms
+[2023-07-20 11:49:40.147 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Starting TodoTestAppApplication using Java 17.0.6 with PID 11948 (D:\spring\todoTestApp\target\classes started by Administrator in D:\spring\todoTestApp)
+[2023-07-20 11:49:40.149 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] No active profile set, falling back to 1 default profile: "default"
+[2023-07-20 11:49:40.185 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-07-20 11:49:40.185 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-07-20 11:49:40.920 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8081 (http)
+[2023-07-20 11:49:40.925 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8081"]
+[2023-07-20 11:49:40.927 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-07-20 11:49:40.927 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.10]
+[2023-07-20 11:49:40.967 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-07-20 11:49:40.967 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 781 ms
+[2023-07-20 11:49:41.434 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-07-20 11:49:41.445 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8081"]
+[2023-07-20 11:49:41.457 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8081 (http) with context path ''
+[2023-07-20 11:49:41.464 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Started TodoTestAppApplication in 1.708 seconds (process running for 2.13)
+[2023-07-20 11:49:46.874 INFO  http-nio-8081-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-07-20 11:49:46.874 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[2023-07-20 11:49:46.875 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[2023-07-20 11:49:47.239 INFO  http-nio-8081-exec-7] [org.springdoc.api.AbstractOpenApiResource] Init duration for springdoc-openapi is: 127 ms
+[2023-07-20 11:50:55.874 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Starting TodoTestAppApplication using Java 17.0.6 with PID 13076 (D:\spring\todoTestApp\target\classes started by Administrator in D:\spring\todoTestApp)
+[2023-07-20 11:50:55.875 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] No active profile set, falling back to 1 default profile: "default"
+[2023-07-20 11:50:55.906 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-07-20 11:50:55.906 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-07-20 11:50:56.721 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8081 (http)
+[2023-07-20 11:50:56.727 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8081"]
+[2023-07-20 11:50:56.728 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-07-20 11:50:56.728 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.10]
+[2023-07-20 11:50:56.765 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-07-20 11:50:56.766 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 860 ms
+[2023-07-20 11:50:57.259 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-07-20 11:50:57.276 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8081"]
+[2023-07-20 11:50:57.290 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8081 (http) with context path ''
+[2023-07-20 11:50:57.299 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Started TodoTestAppApplication in 1.821 seconds (process running for 2.211)
+[2023-07-20 11:51:00.904 INFO  http-nio-8081-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-07-20 11:51:00.904 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[2023-07-20 11:51:00.905 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 0 ms
+[2023-07-20 11:51:01.152 INFO  http-nio-8081-exec-4] [org.springdoc.api.AbstractOpenApiResource] Init duration for springdoc-openapi is: 115 ms
+[2023-07-20 11:51:23.799 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Starting TodoTestAppApplication using Java 17.0.6 with PID 16360 (D:\spring\todoTestApp\target\classes started by Administrator in D:\spring\todoTestApp)
+[2023-07-20 11:51:23.800 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] No active profile set, falling back to 1 default profile: "default"
+[2023-07-20 11:51:23.831 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-07-20 11:51:23.831 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-07-20 11:51:24.563 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8081 (http)
+[2023-07-20 11:51:24.568 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8081"]
+[2023-07-20 11:51:24.569 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-07-20 11:51:24.570 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.10]
+[2023-07-20 11:51:24.609 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-07-20 11:51:24.609 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 778 ms
+[2023-07-20 11:51:25.057 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-07-20 11:51:25.067 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8081"]
+[2023-07-20 11:51:25.079 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8081 (http) with context path ''
+[2023-07-20 11:51:25.086 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Started TodoTestAppApplication in 1.638 seconds (process running for 2.028)
+[2023-07-20 11:51:27.974 INFO  http-nio-8081-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-07-20 11:51:27.975 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[2023-07-20 11:51:27.975 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 0 ms
+[2023-07-20 11:51:28.214 INFO  http-nio-8081-exec-4] [org.springdoc.api.AbstractOpenApiResource] Init duration for springdoc-openapi is: 116 ms
+[2023-07-20 11:58:52.355 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Starting TodoTestAppApplication using Java 17.0.6 with PID 14668 (D:\spring\todoTestApp\target\classes started by Administrator in D:\spring\todoTestApp)
+[2023-07-20 11:58:52.356 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] No active profile set, falling back to 1 default profile: "default"
+[2023-07-20 11:58:52.393 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-07-20 11:58:52.393 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-07-20 11:58:53.201 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8081 (http)
+[2023-07-20 11:58:53.206 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8081"]
+[2023-07-20 11:58:53.207 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-07-20 11:58:53.207 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.10]
+[2023-07-20 11:58:53.251 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-07-20 11:58:53.251 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 858 ms
+[2023-07-20 11:58:53.778 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-07-20 11:58:53.790 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8081"]
+[2023-07-20 11:58:53.803 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8081 (http) with context path ''
+[2023-07-20 11:58:53.810 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Started TodoTestAppApplication in 1.84 seconds (process running for 2.676)
+[2023-07-20 12:00:38.349 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Starting TodoTestAppApplication using Java 17.0.6 with PID 10016 (D:\spring\todoTestApp\target\classes started by Administrator in D:\spring\todoTestApp)
+[2023-07-20 12:00:38.351 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] No active profile set, falling back to 1 default profile: "default"
+[2023-07-20 12:00:38.387 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-07-20 12:00:38.388 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-07-20 12:00:39.253 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8081 (http)
+[2023-07-20 12:00:39.258 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:00:39.260 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-07-20 12:00:39.260 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.10]
+[2023-07-20 12:00:39.305 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-07-20 12:00:39.305 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 917 ms
+[2023-07-20 12:00:39.836 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-07-20 12:00:39.848 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:00:39.860 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8081 (http) with context path ''
+[2023-07-20 12:00:39.867 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Started TodoTestAppApplication in 1.941 seconds (process running for 2.464)
+[2023-07-20 12:00:57.211 INFO  http-nio-8081-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-07-20 12:00:57.211 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[2023-07-20 12:00:57.212 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[2023-07-20 12:00:57.646 INFO  http-nio-8081-exec-6] [org.springdoc.api.AbstractOpenApiResource] Init duration for springdoc-openapi is: 132 ms
+[2023-07-20 12:02:27.242 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Starting TodoTestAppApplication using Java 17.0.6 with PID 16352 (D:\spring\todoTestApp\target\classes started by Administrator in D:\spring\todoTestApp)
+[2023-07-20 12:02:27.243 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] No active profile set, falling back to 1 default profile: "default"
+[2023-07-20 12:02:27.273 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-07-20 12:02:27.273 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-07-20 12:02:28.064 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8081 (http)
+[2023-07-20 12:02:28.070 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:02:28.071 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-07-20 12:02:28.072 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.10]
+[2023-07-20 12:02:28.114 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-07-20 12:02:28.114 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 841 ms
+[2023-07-20 12:02:28.613 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-07-20 12:02:28.627 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:02:28.639 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8081 (http) with context path ''
+[2023-07-20 12:02:28.647 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Started TodoTestAppApplication in 1.777 seconds (process running for 2.242)
+[2023-07-20 12:02:32.154 INFO  http-nio-8081-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-07-20 12:02:32.154 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[2023-07-20 12:02:32.155 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[2023-07-20 12:02:32.443 INFO  http-nio-8081-exec-4] [org.springdoc.api.AbstractOpenApiResource] Init duration for springdoc-openapi is: 148 ms
+[2023-07-20 12:02:51.509 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Starting TodoTestAppApplication using Java 17.0.6 with PID 15724 (D:\spring\todoTestApp\target\classes started by Administrator in D:\spring\todoTestApp)
+[2023-07-20 12:02:51.510 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] No active profile set, falling back to 1 default profile: "default"
+[2023-07-20 12:02:51.540 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-07-20 12:02:51.541 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-07-20 12:02:52.398 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8081 (http)
+[2023-07-20 12:02:52.403 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:02:52.405 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-07-20 12:02:52.405 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.10]
+[2023-07-20 12:02:52.444 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-07-20 12:02:52.444 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 903 ms
+[2023-07-20 12:02:52.930 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-07-20 12:02:52.942 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:02:52.954 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8081 (http) with context path ''
+[2023-07-20 12:02:52.961 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Started TodoTestAppApplication in 1.879 seconds (process running for 2.355)
+[2023-07-20 12:02:57.276 INFO  http-nio-8081-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-07-20 12:02:57.276 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[2023-07-20 12:02:57.277 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[2023-07-20 12:02:57.553 INFO  http-nio-8081-exec-4] [org.springdoc.api.AbstractOpenApiResource] Init duration for springdoc-openapi is: 143 ms
+[2023-07-20 12:03:08.221 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Starting TodoTestAppApplication using Java 17.0.6 with PID 4740 (D:\spring\todoTestApp\target\classes started by Administrator in D:\spring\todoTestApp)
+[2023-07-20 12:03:08.222 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] No active profile set, falling back to 1 default profile: "default"
+[2023-07-20 12:03:08.252 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-07-20 12:03:08.252 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-07-20 12:03:09.089 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8081 (http)
+[2023-07-20 12:03:09.094 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:03:09.096 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-07-20 12:03:09.096 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.10]
+[2023-07-20 12:03:09.136 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-07-20 12:03:09.136 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 884 ms
+[2023-07-20 12:03:09.617 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-07-20 12:03:09.630 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:03:09.642 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8081 (http) with context path ''
+[2023-07-20 12:03:09.650 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Started TodoTestAppApplication in 1.801 seconds (process running for 2.273)
+[2023-07-20 12:03:22.575 INFO  http-nio-8081-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-07-20 12:03:22.575 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[2023-07-20 12:03:22.575 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 0 ms
+[2023-07-20 12:03:22.843 INFO  http-nio-8081-exec-3] [org.springdoc.api.AbstractOpenApiResource] Init duration for springdoc-openapi is: 132 ms
+[2023-07-20 12:03:30.676 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Starting TodoTestAppApplication using Java 17.0.6 with PID 14616 (D:\spring\todoTestApp\target\classes started by Administrator in D:\spring\todoTestApp)
+[2023-07-20 12:03:30.677 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] No active profile set, falling back to 1 default profile: "default"
+[2023-07-20 12:03:30.707 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-07-20 12:03:30.707 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-07-20 12:03:31.509 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8081 (http)
+[2023-07-20 12:03:31.515 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:03:31.516 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-07-20 12:03:31.516 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.10]
+[2023-07-20 12:03:31.559 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-07-20 12:03:31.560 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 853 ms
+[2023-07-20 12:03:32.052 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-07-20 12:03:32.066 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:03:32.079 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8081 (http) with context path ''
+[2023-07-20 12:03:32.087 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Started TodoTestAppApplication in 1.781 seconds (process running for 2.218)
+[2023-07-20 12:03:34.038 INFO  http-nio-8081-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-07-20 12:03:34.039 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[2023-07-20 12:03:34.039 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 0 ms
+[2023-07-20 12:03:34.297 INFO  http-nio-8081-exec-4] [org.springdoc.api.AbstractOpenApiResource] Init duration for springdoc-openapi is: 147 ms
+[2023-07-20 12:03:58.352 INFO  http-nio-8081-exec-8] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2023-07-20 12:03:58.425 INFO  http-nio-8081-exec-8] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.mariadb.jdbc.Connection@2e075976
+[2023-07-20 12:03:58.427 INFO  http-nio-8081-exec-8] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2023-07-20 12:03:58.562 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[2023-07-20 12:03:58.565 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[2023-07-20 12:04:01.706 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Starting TodoTestAppApplication using Java 17.0.6 with PID 13136 (D:\spring\todoTestApp\target\classes started by Administrator in D:\spring\todoTestApp)
+[2023-07-20 12:04:01.708 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] No active profile set, falling back to 1 default profile: "default"
+[2023-07-20 12:04:01.740 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-07-20 12:04:01.740 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-07-20 12:04:02.559 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8081 (http)
+[2023-07-20 12:04:02.564 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:04:02.565 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-07-20 12:04:02.566 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.10]
+[2023-07-20 12:04:02.605 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-07-20 12:04:02.606 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 866 ms
+[2023-07-20 12:04:03.152 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-07-20 12:04:03.165 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:04:03.178 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8081 (http) with context path ''
+[2023-07-20 12:04:03.187 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Started TodoTestAppApplication in 1.925 seconds (process running for 2.442)
+[2023-07-20 12:04:07.123 INFO  http-nio-8081-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-07-20 12:04:07.123 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[2023-07-20 12:04:07.123 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 0 ms
+[2023-07-20 12:04:07.391 INFO  http-nio-8081-exec-4] [org.springdoc.api.AbstractOpenApiResource] Init duration for springdoc-openapi is: 139 ms
+[2023-07-20 12:04:23.302 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Starting TodoTestAppApplication using Java 17.0.6 with PID 14152 (D:\spring\todoTestApp\target\classes started by Administrator in D:\spring\todoTestApp)
+[2023-07-20 12:04:23.303 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] No active profile set, falling back to 1 default profile: "default"
+[2023-07-20 12:04:23.333 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-07-20 12:04:23.333 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-07-20 12:04:24.109 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8081 (http)
+[2023-07-20 12:04:24.114 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:04:24.115 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-07-20 12:04:24.115 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.10]
+[2023-07-20 12:04:24.154 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-07-20 12:04:24.155 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 822 ms
+[2023-07-20 12:04:24.650 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-07-20 12:04:24.662 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:04:24.674 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8081 (http) with context path ''
+[2023-07-20 12:04:24.682 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Started TodoTestAppApplication in 1.745 seconds (process running for 2.173)
+[2023-07-20 12:04:29.911 INFO  http-nio-8081-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-07-20 12:04:29.911 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[2023-07-20 12:04:29.912 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[2023-07-20 12:04:30.181 INFO  http-nio-8081-exec-7] [org.springdoc.api.AbstractOpenApiResource] Init duration for springdoc-openapi is: 141 ms
+[2023-07-20 12:08:04.847 INFO  http-nio-8081-exec-9] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2023-07-20 12:08:05.155 INFO  http-nio-8081-exec-9] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.mariadb.jdbc.Connection@5947e867
+[2023-07-20 12:08:05.160 INFO  http-nio-8081-exec-9] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2023-07-20 12:08:42.108 WARN  HikariPool-1 housekeeper] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m6s948ms217µs100ns).
+[2023-07-20 12:09:18.742 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[2023-07-20 12:09:18.744 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[2023-07-20 12:10:25.418 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Starting TodoTestAppApplication using Java 17.0.6 with PID 15976 (D:\spring\todoTestApp\target\classes started by Administrator in D:\spring\todoTestApp)
+[2023-07-20 12:10:25.420 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] No active profile set, falling back to 1 default profile: "default"
+[2023-07-20 12:10:25.449 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-07-20 12:10:25.449 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-07-20 12:10:26.235 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8081 (http)
+[2023-07-20 12:10:26.241 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:10:26.242 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-07-20 12:10:26.242 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.10]
+[2023-07-20 12:10:26.282 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-07-20 12:10:26.282 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 833 ms
+[2023-07-20 12:10:26.801 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-07-20 12:10:26.817 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:10:26.830 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8081 (http) with context path ''
+[2023-07-20 12:10:26.838 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Started TodoTestAppApplication in 1.794 seconds (process running for 2.242)
+[2023-07-20 12:10:34.541 INFO  http-nio-8081-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-07-20 12:10:34.541 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[2023-07-20 12:10:34.542 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[2023-07-20 12:10:46.273 INFO  http-nio-8081-exec-1] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2023-07-20 12:10:46.333 INFO  http-nio-8081-exec-1] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.mariadb.jdbc.Connection@337c9846
+[2023-07-20 12:10:46.334 INFO  http-nio-8081-exec-1] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2023-07-20 12:11:17.044 WARN  HikariPool-1 housekeeper] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m709ms389µs600ns).
+[2023-07-20 12:12:20.499 WARN  HikariPool-1 housekeeper] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m3s454ms944µs500ns).
+[2023-07-20 12:12:20.649 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[2023-07-20 12:12:20.653 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[2023-07-20 12:14:23.389 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Starting TodoTestAppApplication using Java 17.0.6 with PID 13352 (D:\spring\todoTestApp\target\classes started by Administrator in D:\spring\todoTestApp)
+[2023-07-20 12:14:23.391 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] No active profile set, falling back to 1 default profile: "default"
+[2023-07-20 12:14:23.424 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-07-20 12:14:23.424 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-07-20 12:14:24.272 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8081 (http)
+[2023-07-20 12:14:24.278 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:14:24.279 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-07-20 12:14:24.279 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.10]
+[2023-07-20 12:14:24.321 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-07-20 12:14:24.321 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 896 ms
+[2023-07-20 12:14:24.860 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-07-20 12:14:24.873 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8081"]
+[2023-07-20 12:14:24.887 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8081 (http) with context path ''
+[2023-07-20 12:14:24.894 INFO  restartedMain] [com.green.todotestapp.TodoTestAppApplication] Started TodoTestAppApplication in 1.927 seconds (process running for 2.383)
+[2023-07-20 12:14:29.958 INFO  http-nio-8081-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-07-20 12:14:29.958 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[2023-07-20 12:14:29.959 INFO  http-nio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[2023-07-20 12:14:41.167 INFO  http-nio-8081-exec-1] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2023-07-20 12:14:41.231 INFO  http-nio-8081-exec-1] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.mariadb.jdbc.Connection@337c9846
+[2023-07-20 12:14:41.232 INFO  http-nio-8081-exec-1] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.

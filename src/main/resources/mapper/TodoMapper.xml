@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.green.todotestapp.TodoMapper">
+
+    <insert id="insTodo" useGeneratedKeys="true" keyProperty="itodo">
+        INSERT INTO t_todo
+        SET ctnt = #{ctnt}
+        <if test=" pic != null and pic != '' ">
+            , pic = #{pic}
+        </if>
+    </insert>
+
+    <select id="selTodo">
+        SELECT itodo, ctnt, created_at createdAt, pic, finish_yn finishYn
+        , finished_at finishedAt
+        FROM t_todo
+    </select>
+
+    <update id="updTodo">
+        UPDATE t_todo
+        SET ctnt = #{ctnt}
+        , pic = #{pic}
+        WHERE itodo = #{itodo}
+    </update>
+
+</mapper>
